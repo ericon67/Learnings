@@ -1,3 +1,5 @@
+basics - https://www.javatpoint.com/generics-in-java
+
 #Generic class
 A class that can refer to any type is known as a generic class. Here, we are using the T type parameter to create the generic class of specific type.
 
